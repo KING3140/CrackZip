@@ -14,10 +14,9 @@ print('''
 
 
 Author    ===>> king
-Instagram ===>> hacking_with_king
-GitHub    ===>> KING3140
+Instagram ===>> @the.empiresec
+GitHub    ===>> https://github.com/theEmpireSec
 \n
-
 ''')
 if len(sys.argv)!=3:
 	print(''' Usage option > python3 crackZip.py <path of zipfile> <path of dictionary>''')
